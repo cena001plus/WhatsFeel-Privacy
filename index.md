@@ -1,3 +1,7 @@
+**Language / 言語 / 语言:** **English** | [日本語](./ja/) | [中文](./zh/)
+
+---
+
 **Terms & Conditions**  
 
 These terms and conditions apply to the WhatsFeel app (hereby referred to as "Application") for mobile devices that was created by WU XINLONG (hereby referred to as "Service Provider") as a Freemium service.
