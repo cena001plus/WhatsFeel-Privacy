@@ -64,4 +64,4 @@
 [账号删除申请 / Account Deletion Request](../delete-account/)
 
 ---
-[技术支持 / Technical Support](../technical-support/)
+[技术支持 / Technical Support](../technical-support/zh/)
